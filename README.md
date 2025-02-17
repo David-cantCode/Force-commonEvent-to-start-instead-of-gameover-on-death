@@ -1,0 +1,1 @@
+# Force-commonEvent-to-start-instead-of-gameover-on-death
